@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="BlogS:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="springmvcdemo.war">
+    <root id="archive" name="BlogS.war">
       <element id="artifact" artifact-name="BlogS:war exploded" />
     </root>
   </artifact>
